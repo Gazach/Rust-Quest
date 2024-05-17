@@ -4,7 +4,7 @@ Personal quest for me created by chatGPT  which aims to learn rust (0/100 quest)
 
 ## Quest by ChatGPT-4o
 
-1. **Hello World**:
+1. **Hello World**: (✅)
    - Start with the classic "Hello, World!" program. This will help you set up your development environment and get familiar with Rust's syntax.
 
 2. **Calculator**:
