@@ -1,5 +1,5 @@
 # Rust-Quest
-Personal quest for me created by chatGPT  which aims to learn rust (1/100 quest)
+Personal quest for me created by chatGPT  which aims to learn rust (2/100 quest)
 
 
 ## Quest by ChatGPT-4o
@@ -7,7 +7,7 @@ Personal quest for me created by chatGPT  which aims to learn rust (1/100 quest)
 1. **Hello World**: (✅)
    - Start with the classic "Hello, World!" program. This will help you set up your development environment and get familiar with Rust's syntax.
 
-2. **Calculator**:
+2. **Calculator**: (✅)
    - Build a simple command-line calculator that can perform basic operations like addition, subtraction, multiplication, and division.
 
 3. **Guessing Game**:
