@@ -1,5 +1,5 @@
 # Rust-Quest
-Personal quest for me created by chatGPT  which aims to learn rust (2/100 quest)
+Personal quest for me created by chatGPT  which aims to learn rust (3/100 quest)
 
 
 ## Quest by ChatGPT-4o
