@@ -16,7 +16,7 @@ Personal quest for me created by chatGPT  which aims to learn rust (3/100 quest)
 4. **To-Do List**:
    - Develop a basic command-line to-do list application. Allow users to add, remove, and mark tasks as complete.
 
-5. **Temperature Converter**:
+5. **Temperature Converter**: (✅)
    - Write a program that converts temperatures between Celsius, Fahrenheit, and Kelvin.
 
 6. **Simple Text Editor**:
