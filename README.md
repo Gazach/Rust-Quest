@@ -1,5 +1,5 @@
 # Rust-Quest
-Personal quest for me created by chatGPT  which aims to learn rust (2/100 quest)
+Personal quest for me created by chatGPT  which aims to learn rust (3/100 quest)
 
 
 ## Quest by ChatGPT-4o
@@ -10,7 +10,7 @@ Personal quest for me created by chatGPT  which aims to learn rust (2/100 quest)
 2. **Calculator**: (✅)
    - Build a simple command-line calculator that can perform basic operations like addition, subtraction, multiplication, and division.
 
-3. **Guessing Game**:
+3. **Guessing Game**: (✅)
    - Create a number guessing game where the computer picks a random number, and the user has to guess it. Provide hints like "too high" or "too low".
 
 4. **To-Do List**:
